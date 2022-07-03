@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Новая папкаДЗ\bin\Debug\net6.0\Новая папкаДЗ.exe
+C:\Users\LENOVO\Documents\Новая папкаДЗ\bin\Debug\net6.0\Новая папкаДЗ.deps.json
+C:\Users\LENOVO\Documents\Новая папкаДЗ\bin\Debug\net6.0\Новая папкаДЗ.runtimeconfig.json
+C:\Users\LENOVO\Documents\Новая папкаДЗ\bin\Debug\net6.0\Новая папкаДЗ.dll
+C:\Users\LENOVO\Documents\Новая папкаДЗ\bin\Debug\net6.0\Новая папкаДЗ.pdb
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.dll
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\refint\Новая папкаДЗ.dll
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.pdb
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\Новая папкаДЗ.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Новая папкаДЗ\obj\Debug\net6.0\ref\Новая папкаДЗ.dll
