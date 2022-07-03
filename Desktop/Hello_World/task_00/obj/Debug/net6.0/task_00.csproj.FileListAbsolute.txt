@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Hello_World\task_00\bin\Debug\net6.0\task_00.exe
+C:\Users\LENOVO\Desktop\Hello_World\task_00\bin\Debug\net6.0\task_00.deps.json
+C:\Users\LENOVO\Desktop\Hello_World\task_00\bin\Debug\net6.0\task_00.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Hello_World\task_00\bin\Debug\net6.0\task_00.dll
+C:\Users\LENOVO\Desktop\Hello_World\task_00\bin\Debug\net6.0\task_00.pdb
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.dll
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\refint\task_00.dll
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.pdb
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\task_00.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Hello_World\task_00\obj\Debug\net6.0\ref\task_00.dll
